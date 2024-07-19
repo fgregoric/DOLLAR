@@ -1,5 +1,5 @@
 ## Cotización del Dólar
-### Script PHP sencillo que permite obtener la cotización del Dólar tanto en Pesos argentinos como en Pesos mexicanos.
+### Script PHP que permite obtener la cotización del Dólar tanto en Pesos argentinos como en Pesos mexicanos.
 
 ### Utilización:
 
