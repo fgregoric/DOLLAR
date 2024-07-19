@@ -1,7 +1,7 @@
 ## Cotización del Dólar
 ### Script PHP que permite obtener la cotización del Dólar tanto en Pesos argentinos como en Pesos mexicanos.
 
-Obtiene la cotización de "https://dolarapi.com".
+	Obtiene la cotización de "https://dolarapi.com".
 
 ### Utilización:
 
