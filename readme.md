@@ -3,16 +3,18 @@
 
 ### Utilización:
 
-	Ejecutar "php dollar.php [monto] [divisa]" mediante terminal.
+	Ejecutar "php dollar.php [amount] [currency]" mediante terminal.
 	
 	Ej.	"php dollar.php 9999.80 ARS"
 	
 ### Parámetros:	
 	
-	[monto] Monto en la divisa de origen a convertir en Dólar.
+	[amount] Monto en la divisa de origen a convertir en Dólar.
 		Precisión de 2 dígitos decimales. Acepta "." como separador decimal.
-		Si se introducen más dígitos decimales serán redondeados a 2.
+		Si se introducen más de 2 dígitos decimales serán redondeados a 2.
 			  
-	[divisa] Divisa de origen, "ARS" para Pesos argentinos y "MXN" para Pesos mexicanos.
+	[currency] Divisa de origen, "ARS" para Pesos argentinos y "MXN" para Pesos mexicanos.
 	
 ### Comando Ayuda:
+
+	Ejecutar "php dollar.php -h" mediante terminal.
