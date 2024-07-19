@@ -5,7 +5,7 @@
 
 	Ejecutar "php dollar.php [amount] [currency]" mediante terminal.
 	
-	Ej.	"php dollar.php 9999.80 ARS"
+	Ej. "php dollar.php 9999.80 ARS"
 	
 ### Parámetros:	
 	
